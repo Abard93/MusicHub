@@ -1,0 +1,44 @@
+# Translation of Plugins - Otter Blocks &#8211; Awesome Gutenberg Blocks - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - Otter Blocks &#8211; Awesome Gutenberg Blocks - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-26 03:02:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Otter Blocks &#8211; Awesome Gutenberg Blocks - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Plugin URI of the plugin
+msgid "https://themeisle.com/plugins/otter-blocks"
+msgstr "https://themeisle.com/plugins/otter-blocks"
+
+#: class-otter-blocks.php:25
+msgid "A set of awesome Gutenberg Blocks!"
+msgstr "Una serie di fantastici blocchi Gutenberg!"
+
+#: class-otter-blocks.php:24
+msgid "Otter Blocks"
+msgstr "Otter Blocks"
+
+#. Description of the plugin
+msgid "Create beautiful and attracting posts, pages, and landing pages with Otter Blocks. Otter Blocks comes with dozens of Gutenberg blocks that are all you need to build beautiful pages."
+msgstr "Crea articoli, pagine e landing page belle e attraenti con Otter Blocks. Otter Blocks è dotato di decine di blocchi Gutenberg che sono tutto ciò che serve per creare bellissime pagine."
+
+#. Plugin Name of the plugin
+msgid "Otter Blocks - Awesome Gutenberg Blocks"
+msgstr "Otter Blocks - Awesome Gutenberg Blocks"
+
+#: class-otter-blocks.php:84 class-otter-blocks.php:96
+msgid "Cheatin&#8217; huh?"
+msgstr "Stai barando eh?"
